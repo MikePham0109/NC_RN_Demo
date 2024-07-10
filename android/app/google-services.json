@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "972665941402",
+    "project_id": "netcore-demo-f9d2f",
+    "storage_bucket": "netcore-demo-f9d2f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:972665941402:android:f088420a39318c1f7e5e23",
+        "android_client_info": {
+          "package_name": "com.example.demo_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "972665941402-rhrb6pnrati42poft53lsb1ru5nc5qmu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVo0t9FIEF_8KZPrDsnjwcWN2Z0zYJWVw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "972665941402-rhrb6pnrati42poft53lsb1ru5nc5qmu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:972665941402:android:ea59af48f4ff735d7e5e23",
+        "android_client_info": {
+          "package_name": "com.travasreact"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "972665941402-rhrb6pnrati42poft53lsb1ru5nc5qmu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVo0t9FIEF_8KZPrDsnjwcWN2Z0zYJWVw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "972665941402-rhrb6pnrati42poft53lsb1ru5nc5qmu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
